@@ -1,0 +1,16 @@
+.button{
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px soild black;
+    /* background: linear-gradient(to right bottom, #31336b, #bd824ee3); */
+    
+    cursor: pointer;
+    /* transition: background-color 1.2s; */
+}
+.compltebn{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

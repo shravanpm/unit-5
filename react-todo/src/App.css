@@ -1,0 +1,58 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: teal;
+}
+
+
+
+@media (max-width:576px) {
+
+  .App-wrapper {
+    min-width: 150px;
+    min-height: 733px;
+    padding: 30px;
+
+
+
+  }
+
+}
+
+.header h1 {
+  color: yellow;
+  text-align: center;
+  margin: 30px;
+}
+
+.subHeading h2 {
+  color:yellow;
+  text-align: center;
+  margin: -26px
+}
+
+@media (max-width:576px) {
+  .header h1 {
+    color: whredite;
+    text-align: center;
+    margin: 10px;
+  }
+
+  .subHeading h2 {
+    color: white;
+    text-align: center;
+
+  }
+
+
+}
