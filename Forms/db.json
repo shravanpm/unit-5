@@ -1,0 +1,46 @@
+{
+  "employee": [
+    {
+      "name": "shravan",
+      "age": "24",
+      "address": "ah",
+      "department": "Information Technology",
+      "salary": "6787",
+      "maritalStatus": "",
+      "id": 2
+    },
+    {
+      "name": "shravan",
+      "age": "24",
+      "address": "ah",
+      "department": "Information Technology",
+      "salary": "6787",
+      "maritalStatus": "",
+      "id": 3
+    },
+    {
+      "name": "swasthi",
+      "age": "21",
+      "address": "kl",
+      "department": "CS",
+      "salary": "58938",
+      "id": 4
+    },
+    {
+      "name": "sagg",
+      "age": "23",
+      "address": "ewq",
+      "department": "Electrical",
+      "salary": "312123",
+      "id": 5
+    },
+    {
+      "name": "sagg",
+      "age": "23",
+      "address": "ewq",
+      "department": "Electrical",
+      "salary": "312123",
+      "id": 6
+    }
+  ]
+}
